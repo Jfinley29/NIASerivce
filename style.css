@@ -1,0 +1,95 @@
+/*general*/
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #393232;
+}
+
+/* end general*/
+
+/*navheader*/
+
+.nav {
+    background-color: #e48257;
+    width: 100%;
+    height: 80px;
+}
+
+.nav h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.nav p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+/*end navheader*/
+
+.selector {
+    background-color: #f2edd7;
+    height: 50px;
+    width: 85%;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+
+.make {
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.makelabel {
+    position: relative;
+    top: 15px;
+    margin-left: 20px;
+    left: 50px;
+}
+
+#selecttext {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 15px;
+    margin-left: 20px;
+    left: 50px;
+}
+
+#submit {
+    position: relative;
+    top: 15px;
+    margin-left: 20px;
+    left: 50px;
+}
+
+/*start info display*/
+
+.infodisplay {
+    width: 85%;
+    height: 600px;
+    background-color: #f2edd7;
+    margin: 0 auto;
+    visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
